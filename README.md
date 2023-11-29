@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roopeikonenn
-- 👀 I’m interested in gaming and game development
+- 👀 I’m interested in programming and game development
 - 🌱 I’m currently learning game technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
